@@ -8,3 +8,6 @@ Nosso sistema consiste em um aplicativo de busca de acomodações e hotéis, de 
 
 # Diagrama de casos de uso
 ![dia](https://github.com/Jubiebo/Prova-04---Processos-e-Requisitos/assets/163541683/5ebf5f3e-720a-41e4-b334-0eabce5e38bd)
+
+## Link do documento Word: 
+https://universidadecatolica-my.sharepoint.com/:w:/r/personal/jose_00000850926_unicap_br/_layouts/15/Doc.aspx?sourcedoc=%7BDD7F65BE-BC0B-469D-81FC-D183AFF9CD2D%7D&file=Projeto%20de%20processos%20e%20requisitos.docx&fromShare=true&action=default&mobileredirect=true
