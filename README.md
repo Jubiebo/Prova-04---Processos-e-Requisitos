@@ -1,4 +1,4 @@
-# Prova-04---Processos-e-Requisitos
+# Augusto Hospedagens
 
 # Descrição
 Nosso sistema consiste em um aplicativo de busca de acomodações e hotéis, de forma simples e objetiva, que busca sempre colocar em prioridade o que o usuário está buscando, sem empurrar serviços e pacotes não solicitados pelos usuários. Dessa forma, no nosso aplicativo é possível visualizar todas as avaliações de outros usuários que já se acomodaram em um hotel, sem permitir que o hotel em si selecione quais feedbacks o usuário pode visualizar ou não. Outro importante ponto é a facilidade de compartilhar as informações das acomodações desejadas, além de favoritar essas acomodações e rapidamente visualizá-las. Augusto Hospedagens também conta com altos padrões de busca e filtros, sendo possível selecionar hotéis com café da manhã, academia, tamanho do quarto, proximidade do aeroporto, dentre outros. 
